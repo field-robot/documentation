@@ -1,7 +1,7 @@
 # documentation
 ## Contents
 - Installation
-  - Create a github account
+  - [create-a-github-account](#create-a-github-account)
   - Install Ubuntu
   - Install ROS
   - Configuring Catkin
