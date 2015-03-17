@@ -11,7 +11,7 @@
   - [Run packages](#run-packages)
   - [Create new packages](#create-new-packages)
   - [Change existing packages](#change-existing-packages)
-  - [Downloading/uploading to GitHub](#downloading/uploading-to-github)
+  - [Downloading/uploading to GitHub](#downloadinguploading-to-github)
 - [Communication explanation](#communication-explanation)
   - [Publisher](#publisher)
   - [Subscriber](#subscriber)
