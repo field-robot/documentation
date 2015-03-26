@@ -4,6 +4,7 @@
   - [Create a github account](#create-a-github-account)
   - [Install Ubuntu](#install-ubuntu)
   - [Ubuntu Commands](#ubuntu-terminal-commands)
+  - [Install MATE](#install-mate)
   - [Install ROS](#install-ros)
   - [Configuring Catkin](#configuring-catkin)
   - [Run Turtlesim](#run-turtlesim)
@@ -37,6 +38,8 @@
 - `pwd`             Shows current working directory
 - `roscd <PACKAGE>` Goes to given ROS Package from any location
 - `<TAB>`           Auto-complete sentence
+
+#### Install MATE
 
 #### Install ROS
 - Open "Ubuntu Software Center"
