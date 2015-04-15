@@ -4,6 +4,7 @@
   - [Create a github account](#create-a-github-account)
   - [Install Ubuntu](#install-ubuntu)
   - [Ubuntu Commands](#ubuntu-terminal-commands)
+  - [Install Terminator](#install-terminator)
   - [Install MATE](#install-mate)
   - [Install ROS](#install-ros)
   - [Configuring Catkin](#configuring-catkin)
