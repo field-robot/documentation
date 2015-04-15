@@ -39,11 +39,18 @@
 - `roscd <PACKAGE>` Goes to given ROS Package from any location
 - `<TAB>`           Auto-complete sentence
 
-#### Install MATE
-
-#### Install ROS
+#### Install Terminator
 - Open "Ubuntu Software Center"
 - Download and install "Terminator"
+
+#### Install MATE
+- Open "Terminator"
+- Type: `sudo apt-add-repository ppa:ubuntu-mate-dev/ppa`
+- Type: `sudo apt-add-repository ppa:ubuntu-mate-dev/trusty-mate`
+- Type: `sudo apt-get update && sudo apt-get upgrade`
+- Type: `sudo apt-get install --no-install-recommends ubuntu-mate-core ubuntu-mate-desktop`
+
+#### Install ROS
 - Open "Terminator"
 - Type: `wget https://raw.githubusercontent.com/oroca/oroca-ros-pkg/master/ros_indigo_install.sh
 sh ros_indigo_install.sh`
